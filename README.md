@@ -1,4 +1,4 @@
-# Python OOP Challenge
+# OOP Challenge
 Solution to the OOP Challenge with a Pet class.
 
 ## Files
